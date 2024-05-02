@@ -8,7 +8,7 @@ from functools import lru_cache
 
 
 # Initialize AssemblyAI
-aai.settings.api_key = st.secrets["ASSEMBLYAI_API_KEY"]
+aai.settings.api_key = st.secrets["c0ea59072d71406aae8d27ada72aced4"]
 
 # Set the page width to a custom value
 st.set_page_config(layout="wide")
